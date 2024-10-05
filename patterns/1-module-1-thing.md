@@ -60,7 +60,7 @@ module Stats = {
 Now it's obvious what each module deals with and what should we expect to find
 in each one of them.
 
-Another example from the standarad library are the `Hashtbl` and `Queue`
+Another example from the standard library are the `Hashtbl` and `Queue`
 modules:
 
 ```reason
